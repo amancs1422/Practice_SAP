@@ -15,3 +15,6 @@
 ![](https://github.com/amancs1422/Practice_SAP/blob/2084506c92ebff8b49c8ff4963e662efd03f45ea/Images/External_TR1.jpeg)
 #### Step 4 : Fill in the transport request number, target client and click on continue.
 ![](https://github.com/amancs1422/Practice_SAP/blob/2084506c92ebff8b49c8ff4963e662efd03f45ea/Images/External_TR2.jpeg)
+#### Step 5 : Follow the usual import procedure going forward.
+
+-AK
