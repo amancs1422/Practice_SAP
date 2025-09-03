@@ -1,5 +1,5 @@
 <!-- Author: Aman Kumar -->
-<!-- Created to record a comprehensive list of resources I have utilized to learn this valuable skill. -->
+<!-- Created to record a comprehensive list of resources I have utilized to learn SAP BASIS related skills. -->
 <!-- Date: 02-Sep-2025 -->
 
 External TR Import Resources: <br>
