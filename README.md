@@ -1,2 +1,2 @@
 # Practice_SAP
-Everyday SAP lessons and learnings.
+Commit Everyday SAP lessons and learnings.
