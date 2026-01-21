@@ -1,3 +1,6 @@
+-<!--Author: Aman Kumar-->
+<!--Date: 21-Jan-2026-->
+<!--This markdown file explains creation of a new directory and sub-account inside the SAP BTP trial account.-->
 # BTP Directory and Sub-Account Exploration
 ## :clipboard: Create a Directory and Assign a Sub-Account to the Directory.
 ### Step 1 : Currently there is a global account and we have a sub-account attached to it.
@@ -14,3 +17,5 @@
 ![](https://github.com/amancs1422/Practice_SAP/blob/da11ff684f9755c27012dd997eed97eaae5c9f3d/Images/BTP%20Acc_6.jpg)
 ### Step 7 : Once you access the Sub-Account you will be able to see the entitlements assigned to it.
 ![](https://github.com/amancs1422/Practice_SAP/blob/da11ff684f9755c27012dd997eed97eaae5c9f3d/Images/BTP%20Acc_7.jpg)
+
+-AK
