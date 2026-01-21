@@ -2,11 +2,11 @@
 ## :clipboard: Create a Directory and Assign a Sub-Account to the Directory.
 ### Step 1 : Currently there is a global account and we have a sub-account attached to it.
 ![](https://github.com/amancs1422/Practice_SAP/blob/da11ff684f9755c27012dd997eed97eaae5c9f3d/Images/BTP%20Acc_1.jpg)
-### Step 2 : You can view the above setup in a visual tree format as shown below
+### Step 2 : You can view the above setup in a visual tree format as shown below.
 ![](https://github.com/amancs1422/Practice_SAP/blob/da11ff684f9755c27012dd997eed97eaae5c9f3d/Images/BTP%20Acc_2.jpg)
-### Step 3 : 
+### Step 3 : Fill in the required details to create the required directory.
 ![](https://github.com/amancs1422/Practice_SAP/blob/da11ff684f9755c27012dd997eed97eaae5c9f3d/Images/BTP%20Acc_3.jpg)
-### Step 4 : 
+### Step 4 : Click on the create sub-account button to assign a sub-account to the newly created directory.
 ![](https://github.com/amancs1422/Practice_SAP/blob/da11ff684f9755c27012dd997eed97eaae5c9f3d/Images/BTP%20Acc_4.jpg)
 ### Step 5 : 
 ![](https://github.com/amancs1422/Practice_SAP/blob/da11ff684f9755c27012dd997eed97eaae5c9f3d/Images/BTP%20Acc_5.jpg)
