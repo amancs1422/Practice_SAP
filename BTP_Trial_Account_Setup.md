@@ -1,3 +1,6 @@
+-<!--Author: Aman Kumar-->
+<!--Date: 21-Jan-2026-->
+<!--This markdown file explains creation of a SAP BTP trial account.-->
 # BTP Trial Account Setup
 ## :clipboard: Create a SAP Business Technology Platform(BTP) Trial Account.
 ### Step 1 : Access sap.com site and login/create an SAP account.
